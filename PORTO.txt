@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name=RIBEIRA DO PORTO
+https://www.youtube.com/live/NgbaBFYGZHI?si=B0DaNGhDH2cgEn5f
